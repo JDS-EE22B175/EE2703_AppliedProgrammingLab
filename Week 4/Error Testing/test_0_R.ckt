@@ -1,0 +1,6 @@
+
+.circuit
+V1   1 GND  dc 10
+R2   2 GND     0  # This is a short circuit
+R1   1   2     5
+.end
